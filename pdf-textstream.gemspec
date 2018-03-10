@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["michal.kulesza@netguru.co"]
 
   spec.summary       = %q{JRuby gem converting PDF to text keeping the layout}
-  spec.description   = %q{: Write a longer description or delete this line.}
   spec.homepage      = "https://github.com/mic-kul/pdf-textstream"
   spec.license       = "MIT"
 
